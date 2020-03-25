@@ -1,7 +1,7 @@
 # kgabalins
 
-Hello everybody wathcing this text, I'm glad you could join me today.
-I wanted to say that I'm starting to learn about programming and I will continue progressing in the realm of programming. 
+Iespējamie github.com projekti, kuri tiks pielietoti mūsu projektā:
 
-See you some other day,
-Peace, Karlis!
+1) https://github.com/go-kit/kit
+2) https://github.com/raycad/go-microservices
+3) https://github.com/EwanValentine/shippy
